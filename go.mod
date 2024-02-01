@@ -76,7 +76,7 @@ require (
 	github.com/owenrumney/go-sarif/v2 v2.3.0
 	github.com/package-url/packageurl-go v0.1.2-0.20230812223828-f8bb31c1f10b
 	github.com/samber/lo v1.38.1
-	github.com/saracen/walker v0.1.3
+	github.com/saracen/walker v0.1.4
 	github.com/secure-systems-lab/go-securesystemslib v0.7.0
 	github.com/sigstore/rekor v1.2.1
 	github.com/sirupsen/logrus v1.9.3
@@ -97,7 +97,7 @@ require (
 	go.uber.org/zap v1.25.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
 	golang.org/x/mod v0.12.0
-	golang.org/x/sync v0.3.0
+	golang.org/x/sync v0.6.0
 	golang.org/x/term v0.15.0
 	golang.org/x/text v0.14.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
