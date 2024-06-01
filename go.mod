@@ -38,7 +38,7 @@ require (
 	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.15.0
-	github.com/go-git/go-git/v5 v5.11.0
+	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-openapi/runtime v0.26.0
 	github.com/go-openapi/strfmt v0.22.1
 	github.com/go-redis/redis/v8 v8.11.5
@@ -86,7 +86,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.16.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.23.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.21.0
 	github.com/tetratelabs/wazero v1.2.1
@@ -134,7 +134,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/Microsoft/hcsshim v0.11.4 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
-	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
+	github.com/ProtonMail/go-crypto v1.0.0 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/agext/levenshtein v1.2.3 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
@@ -334,13 +334,13 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/rubenv/sql-migrate v1.5.2 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
-	github.com/sergi/go-diff v1.2.0 // indirect
+	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
 	github.com/shopspring/decimal v1.3.1 // indirect
-	github.com/skeema/knownhosts v1.2.1 // indirect
+	github.com/skeema/knownhosts v1.2.2 // indirect
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/stretchr/objx v0.5.0 // indirect
+	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/tchap/go-patricia/v2 v2.3.1 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
